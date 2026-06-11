@@ -1,4 +1,4 @@
-# Hi, I'm Jesca Birungi 👋
+# Hello, I'm Jesca Birungi
 
 **Biostatistician | Public Health Data Analyst | Freelance Statistical Consultant**  
 📍 Kampala, Uganda  
