@@ -1,13 +1,13 @@
-# Hi, I'm Jesca Nalugya Birungi 👋
+# Hi, I'm Jesca Birungi 👋
 
-📊 **Biostatistician | Public Health Data Analyst | Freelance Statistical Consultant**  
+**Biostatistician | Public Health Data Analyst | Freelance Statistical Consultant**  
 📍 Kampala, Uganda  
-🎯 Helping researchers and students analyze health data using **R, Stata, Python, and reproducible workflows**  
-🔬 Open to **PhD opportunities, research collaborations, and health data science roles**
+Helping researchers and students analyze health data using **R, Stata, Python, and reproducible workflows**  
+Open to **PhD opportunities, research collaborations, and health data science roles**
 
 ---
 
-## 👩‍🔬 About Me
+##  About Me
 
 I am a biostatistician with experience in **disease epidemiology, field research, statistical modelling, and public health data analysis**.
 
@@ -17,7 +17,7 @@ I am especially interested in applying **biostatistics, infectious disease model
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 
 ### Statistical Analysis
 - Data cleaning, management, and quality assurance
@@ -47,7 +47,7 @@ I am especially interested in applying **biostatistics, infectious disease model
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Biostatistics and epidemiological methods
 - Infectious disease modelling
@@ -63,7 +63,7 @@ I am especially interested in applying **biostatistics, infectious disease model
 
 ## 📌 Featured Projects
 
-### 🦠 Tuberculosis Transmission Modelling
+###  Tuberculosis Transmission Modelling
 A Python-based compartmental modelling project evaluating the impact of **Directly Observed Treatment, Short-course (DOTS)** interventions on tuberculosis transmission dynamics in Uganda.
 
 **Methods:** SIERS/SEIRS modelling, simulation-based analysis, epidemiological parameterization, scenario comparison  
@@ -79,7 +79,7 @@ A biostatistical analysis comparing **ordinary logistic regression, log-binomial
 
 ---
 
-### 🧬 Soil-Transmitted Helminths Systematic Review
+###  Soil-Transmitted Helminths Systematic Review
 A systematic review and meta-analysis on the **prevalence and spatial distribution of soil-transmitted helminth infections in sub-Saharan Africa**.
 
 **Methods:** Systematic review, meta-analysis, spatial distribution, public health synthesis  
@@ -87,7 +87,7 @@ A systematic review and meta-analysis on the **prevalence and spatial distributi
 
 ---
 
-### 🤰 ART Adherence Among Pregnant Women
+###  ART Adherence Among Pregnant Women
 An analysis of longitudinal health data to identify factors associated with non-adherence to antiretroviral therapy among pregnant women in Uganda.
 
 **Methods:** Longitudinal data analysis, Generalized Estimating Equations, maternal health analysis  
@@ -107,7 +107,7 @@ Graduated: December 2012
 
 ---
 
-## 🏢 Experience Highlights
+##  Experience Highlights
 
 - Research Assistant, **Zayed University**
 - Research Associate, **Makerere University School of Public Health**
@@ -130,7 +130,7 @@ Graduated: December 2012
 
 ---
 
-## 📜 Selected Training & Certifications
+##  Selected Training & Certifications
 
 - Foundations and Applications of AI and Machine Learning in Tuberculosis Research — University of Georgia and Makerere University
 - Infectious Disease Modelling Intermediate Course — University of Oxford
@@ -141,7 +141,7 @@ Graduated: December 2012
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: [Jesca Birungi](https://www.linkedin.com/in/jesca-birungi/)
 - GitHub: [jessybiru](https://github.com/jessybiru)
